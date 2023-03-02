@@ -1,0 +1,23 @@
+{
+  "name": "digi-corn-smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afaq-khan2000/digi-corn-smart-contracts.git"
+  },
+  "author": "Afaq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afaq-khan2000/digi-corn-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/afaq-khan2000/digi-corn-smart-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.7"
+  }
+}
